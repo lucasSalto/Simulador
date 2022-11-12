@@ -1,0 +1,130 @@
+[
+    {
+        "origen":"Buenos Aires",
+        "destino": "Cartagena",
+        "horasDeVuelo": 9,
+        "valorViaje": 170000,
+        "cantDePasajesDisponibles": 5
+    },
+    {
+        "origen":"Buenos Aires",
+        "destino": "Lima",
+        "horasDeVuelo": 5,
+        "valorViaje": 130000,
+        "cantDePasajesDisponibles": 6
+    },
+    {
+        "origen":"Buenos Aires",
+        "destino": "Madrid",
+        "horasDeVuelo": 12,
+        "valorViaje": 470000,
+        "cantDePasajesDisponibles": 10 
+    },
+    {
+        "origen":"Buenos Aires",
+        "destino": "Rio de janeiro",
+        "horasDeVuelo": 3,
+        "valorViaje": 140000,
+        "cantDePasajesDisponibles": 3
+    },
+    {
+        "origen":"Cartagena",
+        "destino": "Buenos Aires",
+        "horasDeVuelo": 9,
+        "valorViaje": 170000,
+        "cantDePasajesDisponibles": 4 
+    },{
+        "origen":"Cartagena",
+        "destino": "Lima",
+        "horasDeVuelo": 4,
+        "valorViaje": 120000,
+        "cantDePasajesDisponibles": 5 
+    },{
+        "origen":"Cartagena",
+        "destino": "Madrid",
+        "horasDeVuelo": 10,
+        "valorViaje": 360000,
+        "cantDePasajesDisponibles": 2
+    },{
+        "origen":"Cartagena",
+        "destino": "Rio de janeiro",
+        "horasDeVuelo": 9,
+        "valorViaje": 180000,
+        "cantDePasajesDisponibles": 3 
+    },
+    {
+        "origen":"Lima",
+        "destino": "Cartagena",
+        "horasDeVuelo": 4,
+        "valorViaje": 120000,
+        "cantDePasajesDisponibles": 4
+    },{
+        "origen":"Lima",
+        "destino": "Madrid",
+        "horasDeVuelo": 11,
+        "valorViaje": 390000,
+        "cantDePasajesDisponibles": 2
+    },{
+        "origen":"Lima",
+        "destino": "Rio de janeiro",
+        "horasDeVuelo": 5,
+        "valorViaje": 180000,
+        "cantDePasajesDisponibles": 5 
+    },{
+        "origen":"Lima",
+        "destino": "Buenos Aires",
+        "horasDeVuelo": 5,
+        "valorViaje": 130000,
+        "cantDePasajesDisponibles": 5 
+    },
+    {
+        "origen":"Madrid",
+        "destino": "Cartagena",
+        "horasDeVuelo": 10,
+        "valorViaje": 360000,
+        "cantDePasajesDisponibles": 6 
+    },{
+        "origen":"Madrid",
+        "destino": "Lima",
+        "horasDeVuelo": 11,
+        "valorViaje": 390000,
+        "cantDePasajesDisponibles": 4 
+    },{
+        "origen":"Madrid",
+        "destino": "Rio de janeiro",
+        "horasDeVuelo": 10,
+        "valorViaje": 420000,
+        "cantDePasajesDisponibles": 4
+    },{
+        "origen":"Madrid",
+        "destino": "Buenos Aires",
+        "horasDeVuelo": 12,
+        "valorViaje": 470000,
+        "cantDePasajesDisponibles": 6
+    },
+    {
+        "origen":"Rio de janeiro",
+        "destino": "Cartagena",
+        "horasDeVuelo": 9,
+        "valorViaje": 180000,
+        "cantDePasajesDisponibles": 8
+    },{
+        "origen":"Rio de janeiro",
+        "destino": "Lima",
+        "horasDeVuelo": 5,
+        "valorViaje": 180000,
+        "cantDePasajesDisponibles": 7
+    },{
+        "origen":"Rio de janeiro",
+        "destino": "Madrid",
+        "horasDeVuelo": 10,
+        "valorViaje": 420000,
+        "cantDePasajesDisponibles": 2 
+    },{
+        "origen":"Rio de janeiro",
+        "destino": "Buenos Aires",
+        "horasDeVuelo": 3,
+        "valorViaje": 140000,
+        "cantDePasajesDisponibles": 5
+    }
+]

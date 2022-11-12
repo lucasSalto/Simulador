@@ -1,0 +1,38 @@
+[
+    {
+        "nombre": "Homero",
+        "apellido": "Simpson",
+        "email": "homerj-simpson@lossimpsons.com",
+        "contrasenia": "soyhomeroelmalo",
+        "direccion": "Av. Siempreviva 742",
+        "provincia": "Springfield",
+        "codigoPostal": "4646"
+    },
+    {
+        "nombre": "Marge",
+        "apellido": "Simpson",
+        "email": "marge-simpson@lossimpsons.com",
+        "contrasenia": "tengoquedejaresasfantasias",
+        "direccion": "Av. Siempreviva 742",
+        "provincia": "Springfield",
+        "codigoPostal": "4646"
+    },
+    {
+        "nombre": "Lisa",
+        "apellido": "Simpson",
+        "email": "lisa-simpson@lossimpsons.com",
+        "contrasenia": "amoeljazz",
+        "direccion": "Av. Siempreviva 742",
+        "provincia": "Springfield",
+        "codigoPostal": "4646"
+    },
+    {
+        "nombre": "Bart",
+        "apellido": "Simpson",
+        "email": "bart@lossimpsons.com",
+        "contrasenia": "elbarto",
+        "direccion": "Av. Siempreviva 742",
+        "provincia": "Springfield",
+        "codigoPostal": "4646"
+    }
+]

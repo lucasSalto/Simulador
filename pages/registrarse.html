@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!--Boostrap-->
+    <!-- JavaScript Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script>
+    <!-- CSS only -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+
+
+    <!--Tipografia:'Oswald', sans-serif; 200,400,700-->
+    <link rel="preconectar" href="https://fonts.googleapis.com">
+    <link rel="preconectar" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https: //fonts.googleapis.com/css2? family= Oswald:wght@200;400;700 & display=swap" rel="stylesheet">
+
+    <!--Favicon-->
+    <link rel="shortcut icon" href="../img/icon_7e759bc79d0f4b765a5a44f29d7ca058.ico">
+
+    <link rel="stylesheet" href="../css/estilo.css">
+
+    <title>Sky Fly - Registrarse</title>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg text-center">
+            <div class="container-fluid">
+                <a href="../index.html">
+                    <img class="logo" src="../img/istockphoto-1137971264-612x612.jpg" alt="logo_company">
+                </a> 
+                <div class="encabezado">
+                    <ul class="navbar-nav"> 
+                        <li class="nav-item"><a class="nav-link" href="./sesion.html">Iniciar Sesion</a></li>
+                        <li class="nav-item"><a class="nav-link" href="./registrarse.html">Resgistrarse</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+   </header>
+
+   <section>
+    <div class="registro">
+        <form id="registro" class="row g-3 recuadro-registro">
+          <h1 class="titulo-registro">REGISTRATE</h1>
+            <div class="col-md-6">
+                <label for="inputEmail4" class="form-label">Nombre</label>
+                <input type="text" class="form-control" id="name" required>
+              </div>
+              <div class="col-md-6">
+                <label for="inputPassword4" class="form-label">Apellido</label>
+                <input type="text" class="form-control" id="surname" required>
+              </div>
+            <div class="col-md-6">
+              <label for="inputEmail4" class="form-label">Email</label>
+              <input type="email" class="form-control" id="inputEmail4" required>
+            </div>
+            <div class="col-md-6">
+              <label for="inputPassword4" class="form-label">Contraseña</label>
+              <input type="password" class="form-control" id="inputPassword4" required>
+            </div>
+            <div class="col-12">
+              <label for="inputAddress" class="form-label">Direccion</label>
+              <input type="text" class="form-control" id="inputAddress" placeholder="Alvarez 123">
+            </div>
+            <div class="col-md-6">
+              <label for="inputCity" class="form-label">Provincia</label>
+              <input type="text" class="form-control" id="inputCity">
+            </div>
+            <div class="col-md-2">
+              <label for="inputZip" class="form-label">Codigo Postal</label>
+              <input type="number" class="form-control" id="inputZip">
+            </div>
+            <div class="col-12">
+              <div class="form-check">
+                <input class="form-check-input" type="checkbox" id="gridCheck" checked>
+                <label class="form-check-label" for="gridCheck">
+                  Acepto los Terminos & con Condiciones y la Politica de Privacidad
+                </label>
+              </div>
+            </div>
+            <div class="col-12">
+              <button id="boton-registro" type="submit" class="btn btn-primary">Enviar</button>
+            </div>
+          </form>
+    </div>
+   </section>
+
+   <footer>
+    <div class="container-fluid final_pagina">
+        <div>
+            <p class="derechos"> © Sky Fly Airline 2022</p>
+        </div>
+        <div>
+            <a href="../index.html">
+                <img class="logo" src="../img/istockphoto-1137971264-612x612.jpg" alt="logo_company">
+            </a>
+        </div>
+    </div> 
+   </footer>
+
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="../js/clases.js"></script>
+    <script src="../js/variables-y-arreglos.js"></script>
+    <script src="../js/funciones.js"></script>
+    <script src="../js/registro.js"></script>
+
+</body>
+</html>

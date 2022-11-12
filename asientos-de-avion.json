@@ -1,0 +1,14 @@
+[
+    {
+        "tipoDeAsiento":"economica",
+        "valorDelAsiento": 10000
+    },
+    {
+        "tipoDeAsiento":"ejecutiva",
+        "valorDelAsiento": 30000
+    },
+    {
+        "tipoDeAsiento":"primera clase",
+        "valorDelAsiento": 80000
+    }
+]
